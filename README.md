@@ -1,9 +1,9 @@
 
 # Nike Air Projects
 
-## Run Locally
+# Run Locally
 
-Clone the project
+Clone this project
 
 ```bash
   git clone https://github.com/jahangiralom99/Nike-website
