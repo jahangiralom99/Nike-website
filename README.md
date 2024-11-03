@@ -8,7 +8,6 @@ Clone this project
 ```bash
   git clone https://github.com/jahangiralom99/Nike-website
 ```
-
 Go to the project directory
 
 ```bash
